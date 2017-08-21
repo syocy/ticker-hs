@@ -10,8 +10,12 @@ maintainer:          osmium.k@gmail.com
 copyright:           2017 OSANAI Kazuyoshi
 category:            Concurrency
 build-type:          Simple
-extra-source-files:  README.md
+extra-source-files:
+  .gitignore
+  README.md
+  CHANGELOG.md
 cabal-version:       >=1.10
+tested-with:         GHC=8.0.2
 
 library
   hs-source-dirs:      src

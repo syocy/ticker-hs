@@ -23,4 +23,4 @@ main = do
 -- Tick!Tick!Tick!
 ```
 
-More functions are defined in [src/Control/Concurrent/Ticker.hs](src/Control/Concurrent/Ticker.hs).
+More functions are defined in `src/Control/Concurrent/Ticker.hs`.
