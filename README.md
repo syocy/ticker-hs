@@ -1,3 +1,5 @@
+[![Hackage](https://img.shields.io/hackage/v/ticker.svg)](https://hackage.haskell.org/package/ticker)
+
 # ticker
 
 A utility of concurrent programming in Haskell, inspired by [Ticker](https://golang.org/pkg/time/#Ticker) in Go.
