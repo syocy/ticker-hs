@@ -1,3 +1,4 @@
+[![Travis](https://img.shields.io/travis/syocy/ticker-hs.svg)](https://travis-ci.org/syocy/ticker-hs)
 [![Hackage](https://img.shields.io/hackage/v/ticker.svg)](https://hackage.haskell.org/package/ticker)
 
 # ticker
